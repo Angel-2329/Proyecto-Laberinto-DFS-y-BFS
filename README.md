@@ -295,6 +295,14 @@ public void ImprimirMapaDelLaberinto()
 
 ----
 
+### Parámetros de generación del laberinto
+
+- Dimensiones del laberinto: Número impar definido por el usuario
+- Probabilidad de caminos múltiples: 0,55
+- Probabilidad de no solución: 0,1
+
+----
+
 ### Como ejecutarlo
 
 - Compilar los archivos Java
@@ -313,14 +321,5 @@ public void ImprimirMapaDelLaberinto()
 
 ------------
 
-
-### Parámetros de generación del laberinto
-
-- Dimensiones del laberinto: Número impar definido por el usuario
-- Probabilidad de caminos múltiples: 0,55
-- Probabilidad de no solución: 0,1
-
-
-------------
 
 
