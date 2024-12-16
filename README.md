@@ -32,7 +32,7 @@ Este proyecto implementa un sistema en Java para generar y resolver laberintos u
 		Implementa algoritmos de búsqueda en profundidad y en amplitud.
 		Encuentra rutas entre los nodos inicial y final.
 - Métodos clave:
-- 
+  
 		AgregarNodo: Conecta nodos en la matriz de adyacencia.
 ```java
 public void AgregarNodo(int Origen, int Destino)
