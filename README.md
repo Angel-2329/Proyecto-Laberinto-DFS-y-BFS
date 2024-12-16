@@ -298,7 +298,7 @@ public void ImprimirMapaDelLaberinto()
 ### Como ejecutarlo
 
 - Compilar los archivos Java
-- Ejecutar la Laberintoclase
+- Ejecutar el archivo Proyecto Final Laberinto 3SB
 - Introduzca un número impar entre 3 y 99 para las dimensiones del laberinto
   
 ![Captura de pantalla 2024-12-15 221015](https://github.com/user-attachments/assets/57c3f5ab-3cce-491f-bd7c-f510ff171972)
