@@ -303,10 +303,12 @@ public void ImprimirMapaDelLaberinto()
   
 ![Captura de pantalla 2024-12-15 221015](https://github.com/user-attachments/assets/57c3f5ab-3cce-491f-bd7c-f510ff171972)
 
-- Salida 
-
+- Salida
+  
 ![Captura de pantalla 2024-12-15 222024](https://github.com/user-attachments/assets/3db5ce4c-fcaa-4088-9117-a5d42c8ce4e0)
 
+- Solucion por BFS y DFS
+  
 ![Captura de pantalla 2024-12-15 222124](https://github.com/user-attachments/assets/6d53fbf9-fe29-42f1-be15-6823e59c0874)
 
 ------------
