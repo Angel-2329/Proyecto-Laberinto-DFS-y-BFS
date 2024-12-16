@@ -293,4 +293,12 @@ public void ImprimirMapaDelLaberinto()
 - Define excepciones personalizadas para manejar errores de entrada.
 - Proporciona manejo de excepciones personalizado para la validación de entrada
 
+----
+
+### Como ejecutarlo
+
+- Compilar los archivos Java
+- Ejecutar la Laberintoclase
+- Introduzca un número impar entre 3 y 99 para las dimensiones del laberinto
+  
 ![Captura de pantalla 2024-12-15 221015](https://github.com/user-attachments/assets/57c3f5ab-3cce-491f-bd7c-f510ff171972)
