@@ -292,3 +292,5 @@ public void ImprimirMapaDelLaberinto()
 #### Clase Excepcion
 - Define excepciones personalizadas para manejar errores de entrada.
 - Proporciona manejo de excepciones personalizado para la validación de entrada
+
+![Captura de pantalla 2024-12-15 221015](https://github.com/user-attachments/assets/57c3f5ab-3cce-491f-bd7c-f510ff171972)
