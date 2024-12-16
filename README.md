@@ -108,7 +108,8 @@ public int[] EncontrarCaminoPorAmplitud(int NodoDeInicio, int NodoFinal)
 		Métodos para imprimir el diseño del laberinto
 		Implementa la resolución de laberintos mediante el recorrido de gráficos.
 - Metodos Clave
-		GenerarLaberinto: Crea un laberinto con caminos y paredes.
+  
+  		GenerarLaberinto: Crea un laberinto con caminos y paredes.
 ```java
 public char[][] GenerarLaberinto() 
    {
